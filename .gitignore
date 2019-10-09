@@ -1,0 +1,12 @@
+.idea/
+*.iml
+*/*.iml
+.DS_Store
+*/.DS_Store
+*.jar
+target
+/.settings
+/.project
+/.classpath
+.idea/
+out/
